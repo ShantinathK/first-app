@@ -1,3 +1,8 @@
+#Project on Props system.
+1. Learn how to use Props system
+2. what is props system?
+3. How to pass data between compenents - parent to child.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
